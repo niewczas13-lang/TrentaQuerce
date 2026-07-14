@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Il vigneto">
+  <rect width="600" height="420" fill="#f3ecdf"/>
+  <circle cx="120" cy="90" r="40" fill="#e9b44c" opacity=".8"/>
+  <path d="M0 220 Q180 160 360 210 T600 190 V420 H0 Z" fill="#8a9a5b"/>
+  <path d="M0 280 Q220 230 440 275 T600 265 V420 H0 Z" fill="#6b7a45"/>
+  <!-- vine rows in perspective -->
+  <g stroke="#4c5a2e" stroke-width="7" stroke-linecap="round">
+    <path d="M80 420 L260 250"/>
+    <path d="M190 420 L300 255"/>
+    <path d="M300 420 L340 258"/>
+    <path d="M410 420 L380 256"/>
+    <path d="M520 420 L420 252"/>
+  </g>
+  <!-- grape clusters -->
+  <g fill="#7d1530">
+    <circle cx="235" cy="300" r="7"/><circle cx="245" cy="308" r="7"/><circle cx="228" cy="310" r="7"/><circle cx="237" cy="318" r="6"/>
+    <circle cx="352" cy="320" r="7"/><circle cx="362" cy="328" r="7"/><circle cx="345" cy="330" r="7"/><circle cx="354" cy="338" r="6"/>
+  </g>
+  <g fill="#5a7a3a" opacity=".9">
+    <ellipse cx="250" cy="285" rx="12" ry="8" transform="rotate(-20 250 285)"/>
+    <ellipse cx="222" cy="295" rx="12" ry="8" transform="rotate(25 222 295)"/>
+    <ellipse cx="368" cy="305" rx="12" ry="8" transform="rotate(-20 368 305)"/>
+    <ellipse cx="340" cy="315" rx="12" ry="8" transform="rotate(25 340 315)"/>
+  </g>
+  <ellipse cx="520" cy="215" rx="13" ry="50" fill="#4c5a2e"/>
+  <ellipse cx="551" cy="225" rx="11" ry="42" fill="#4c5a2e"/>
+</svg>

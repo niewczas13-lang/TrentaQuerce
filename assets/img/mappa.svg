@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 640" role="img" aria-label="Mappa: come arrivare a Trenta Querce" font-family="Inter, -apple-system, sans-serif" font-size="15" fill="#5a5248">
+  <defs>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="5" stdDeviation="8" flood-color="#2b2620" flood-opacity=".2"/>
+    </filter>
+    <clipPath id="frame"><rect width="700" height="640" rx="16"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="700" height="640" fill="#f3ecdc"/>
+    <!-- soft hills -->
+    <g fill="#ece2cc">
+      <ellipse cx="120" cy="140" rx="150" ry="80"/>
+      <ellipse cx="560" cy="480" rx="180" ry="100"/>
+      <ellipse cx="470" cy="120" rx="130" ry="70"/>
+      <ellipse cx="150" cy="560" rx="160" ry="90"/>
+    </g>
+    <!-- region labels -->
+    <text x="30" y="524" font-size="18" letter-spacing="5" fill="#cbbfa6" font-weight="600">LAZIO</text>
+    <text x="450" y="278" font-size="18" letter-spacing="5" fill="#cbbfa6" font-weight="600">UMBRIA</text>
+    <!-- Tiber -->
+    <path d="M196 0Q185 73 195 109Q204 145 221 173Q239 201 250 237Q262 273 270 305Q277 337 289 387Q301 436 329 487Q356 538 380 579L404 620" fill="none" stroke="#9dbfca" stroke-width="9" stroke-linecap="round" opacity=".9"/>
+    <text x="173" y="49" text-anchor="end" font-size="13" font-style="italic" fill="#6d95a3">fiume Tevere</text>
+    <!-- railway -->
+    <path d="M99 0Q161 140 194 198Q226 256 248 298Q271 340 289 381Q307 422 339 476Q371 529 398 570L425 611" fill="none" stroke="#8b8378" stroke-width="3.5" stroke-dasharray="11 7" opacity=".8"/>
+    <!-- A1 -->
+    <path d="M146 0Q189 116 214 175Q239 233 256 276Q273 320 286 364Q299 407 322 455Q346 503 382 547Q419 591 443 615L468 640" fill="none" stroke="#6b7a45" stroke-width="8" stroke-linecap="round"/>
+    <rect x="172" y="113" width="44" height="24" rx="5" fill="#2e7d32"/><text x="194" y="130" fill="#fff" font-size="13" font-weight="700" text-anchor="middle">A1</text>
+    <text x="160" y="16" font-size="14" font-weight="600" fill="#6b7a45">&#8598; Orvieto · Firenze</text>
+    <text x="458" y="628" text-anchor="end" font-size="14" font-weight="600" fill="#6b7a45">Orte · Roma &#8600;</text>
+    <!-- SP33 and farm lane -->
+    <path d="M286 349Q305 337 314 331Q322 324 334 312Q346 300 361 283L377 266" fill="none" stroke="#c06b3f" stroke-width="5" stroke-linecap="round"/>
+    <path d="M319 327 L326 333" fill="none" stroke="#c06b3f" stroke-width="3" stroke-dasharray="6 5" stroke-linecap="round"/>
+    <text x="354" y="318" font-size="12.5" font-weight="700" fill="#c06b3f">SP33 · 5 km</text>
+    <!-- casello A1 -->
+    <g font-size="12.5">
+      <line x1="273" y1="320" x2="189" y2="286" stroke="#6b7a45" stroke-width="1.5" opacity=".7"/>
+      <circle cx="273" cy="320" r="4.5" fill="#6b7a45"/>
+      <rect x="39" y="260" width="150" height="26" rx="13" fill="#6b7a45"/>
+      <text x="114" y="278" fill="#fffdf9" text-anchor="middle" font-weight="600">uscita A1 Attigliano</text>
+    </g>
+    <!-- station -->
+    <rect x="278" y="360" width="14" height="12" rx="2" fill="#5a5248"/>
+    <text x="285" y="388" text-anchor="middle" font-size="12" fill="#8b8378">stazione FS</text>
+    <rect x="180" y="97" width="10" height="10" rx="2" transform="rotate(45 185 102)" fill="#c9a35a" stroke="#8a6d33" stroke-width="1.5"/><text x="196" y="106" text-anchor="start" font-size="12.5" font-style="italic" fill="#8a6d33">Oasi WWF Lago di Alviano</text><rect x="193" y="500" width="10" height="10" rx="2" transform="rotate(45 198 505)" fill="#c9a35a" stroke="#8a6d33" stroke-width="1.5"/><text x="187" y="523" text-anchor="end" font-size="12.5" font-style="italic" fill="#8a6d33">Parco dei Mostri</text><rect x="362" y="356" width="10" height="10" rx="2" transform="rotate(45 367 361)" fill="#c9a35a" stroke="#8a6d33" stroke-width="1.5"/><text x="378" y="366" text-anchor="start" font-size="12.5" font-style="italic" fill="#8a6d33">Villa romana di Poggio Gramignano</text>
+    <circle cx="377" cy="266" r="6" fill="#fffdf9" stroke="#5a5248" stroke-width="2.5"/><text x="389" y="260" text-anchor="start" font-weight="700">Lugnano in Teverina</text><circle cx="286" cy="349" r="5" fill="#fffdf9" stroke="#5a5248" stroke-width="2.5"/><text x="274" y="365" text-anchor="end" font-weight="500">Attigliano</text><circle cx="547" cy="311" r="5" fill="#fffdf9" stroke="#5a5248" stroke-width="2.5"/><text x="558" y="316" text-anchor="start" font-weight="500">Amelia</text><circle cx="299" cy="224" r="5" fill="#fffdf9" stroke="#5a5248" stroke-width="2.5"/><text x="309" y="229" text-anchor="start" font-weight="500">Alviano</text><circle cx="194" cy="497" r="5" fill="#fffdf9" stroke="#5a5248" stroke-width="2.5"/><text x="183" y="502" text-anchor="end" font-weight="500">Bomarzo</text><circle cx="491" cy="596" r="5" fill="#fffdf9" stroke="#5a5248" stroke-width="2.5"/><text x="502" y="601" text-anchor="start" font-weight="500">Orte</text><circle cx="371" cy="431" r="5" fill="#fffdf9" stroke="#5a5248" stroke-width="2.5"/><text x="381" y="447" text-anchor="start" font-weight="500">Giove</text>
+    <!-- Trenta Querce pin -->
+    <g filter="url(#soft)">
+      <path d="M326 333 c -15 -20 -24 -30 -24 -44 a 24 24 0 1 1 48 0 c 0 14 -9 24 -24 44 z" fill="#a41a3b"/>
+      <circle cx="326" cy="289" r="14" fill="#fffdf9"/>
+      <text x="326" y="296" text-anchor="middle" font-family="Georgia, serif" font-size="19" font-style="italic" font-weight="700" fill="#a41a3b">Q</text>
+    </g>
+    <text x="352" y="281" font-family="Georgia, serif" font-size="20" font-style="italic" font-weight="700" fill="#a41a3b">Trenta Querce</text>
+    <!-- inset -->
+    <g transform="translate(532 18)" filter="url(#soft)">
+      <rect width="150" height="168" rx="10" fill="#fffdf9" stroke="#d8ccb2" stroke-width="1.5"/>
+      <path d="M12.0 101.0L15.0 108.2L19.4 110.0L18.0 114.4L15.2 116.0L16.1 119.4L23.6 124.0L30.0 121.5L31.5 123.3L34.6 120.1L38.3 122.0L41.5 125.6L40.3 127.7L41.8 128.7L41.1 132.2L44.2 133.6L43.5 136.6L45.5 138.3L44.2 139.4L46.9 140.8L45.5 141.4L48.4 141.1L50.6 143.5L56.3 140.7L55.8 144.2L57.3 145.3L55.9 145.6L55.9 149.0L60.1 148.6L59.0 152.4L64.1 151.5L65.8 156.0L72.1 151.7L72.7 144.5L74.9 144.1L75.6 147.1L77.8 147.1L83.5 143.9L80.9 140.4L96.1 133.1L95.0 129.0L96.2 127.2L99.3 128.6L100.9 126.8L106.1 127.0L107.2 124.5L110.2 126.3L115.0 122.4L118.2 123.1L121.3 116.2L121.5 110.5L125.4 110.3L127.4 104.9L125.0 98.2L123.0 101.2L118.7 102.3L114.6 95.7L109.7 92.1L107.4 94.2L105.3 92.9L103.2 97.9L103.2 91.5L96.4 87.0L97.5 84.7L95.7 81.8L97.2 80.6L96.5 72.2L95.2 69.0L92.0 68.9L90.8 66.2L93.6 63.9L93.9 59.3L91.4 58.0L90.4 52.3L87.4 50.4L88.2 45.6L83.8 38.1L86.8 35.2L85.5 33.9L86.0 30.5L82.9 29.6L80.7 34.1L76.8 32.8L73.2 35.1L63.1 23.0L59.6 23.7L57.9 21.1L54.3 24.5L51.9 21.6L49.1 22.8L47.4 20.4L52.5 15.8L51.0 12.0L46.3 15.6L38.2 13.3L34.0 22.2L29.1 22.9L28.8 25.5L33.1 29.0L23.2 35.2L23.8 37.0L27.6 36.7L27.6 40.9L31.4 41.5L32.1 49.3L36.0 50.6L37.4 47.1L40.0 49.0L28.8 55.8L23.9 54.6L24.8 56.6L23.0 61.6L14.8 65.8L13.7 68.2L14.7 74.4L15.9 76.8L17.4 75.1L19.6 77.2L15.6 91.4L17.7 98.1L12.0 101.0Z" fill="#efe6d0" stroke="#b9ab8d" stroke-width="1.5"/>
+      <rect x="35.4" y="121.5" width="25.2" height="25.3" fill="none" stroke="#a41a3b" stroke-width="2" rx="2"/>
+      <circle cx="47.0" cy="134.6" r="4" fill="#a41a3b"/>
+      <text x="75" y="160" text-anchor="middle" font-size="10.5" letter-spacing="1.5" fill="#8b8378">UMBRIA</text>
+    </g>
+    <rect width="700" height="640" rx="16" fill="none" stroke="#d8ccb2" stroke-width="2"/>
+  </g>
+</svg>

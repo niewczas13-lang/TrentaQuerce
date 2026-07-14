@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Il casale">
+  <rect width="600" height="420" fill="#e8dcc3"/>
+  <circle cx="480" cy="80" r="46" fill="#e9b44c" opacity=".85"/>
+  <path d="M0 300 Q150 240 300 285 T600 265 V420 H0 Z" fill="#8a9a5b"/>
+  <path d="M0 340 Q200 290 400 330 T600 320 V420 H0 Z" fill="#6b7a45"/>
+  <!-- farmhouse -->
+  <rect x="200" y="190" width="200" height="120" fill="#d8c3a5" stroke="#a2532c" stroke-width="3"/>
+  <path d="M190 190 L300 130 L410 190 Z" fill="#a2532c"/>
+  <rect x="230" y="220" width="34" height="34" fill="#6e4a2f"/>
+  <rect x="336" y="220" width="34" height="34" fill="#6e4a2f"/>
+  <rect x="283" y="240" width="36" height="70" fill="#6e4a2f"/>
+  <rect x="288" y="200" width="26" height="18" fill="#6e4a2f"/>
+  <!-- cypresses -->
+  <ellipse cx="150" cy="270" rx="14" ry="58" fill="#4c5a2e"/>
+  <ellipse cx="120" cy="285" rx="12" ry="48" fill="#4c5a2e"/>
+  <ellipse cx="460" cy="275" rx="14" ry="56" fill="#4c5a2e"/>
+  <!-- vine rows -->
+  <g stroke="#4c5a2e" stroke-width="5" opacity=".55">
+    <path d="M40 400 Q300 360 560 395"/>
+    <path d="M60 380 Q300 345 540 375"/>
+    <path d="M90 362 Q300 332 510 358"/>
+  </g>
+</svg>
