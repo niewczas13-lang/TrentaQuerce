@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Le camere">
+  <rect width="600" height="420" fill="#e8dcc3"/>
+  <!-- cotto floor -->
+  <rect y="300" width="600" height="120" fill="#b56a45"/>
+  <g stroke="#a2532c" stroke-width="3">
+    <line x1="0" y1="340" x2="600" y2="340"/><line x1="0" y1="380" x2="600" y2="380"/>
+    <line x1="100" y1="300" x2="60" y2="420"/><line x1="250" y1="300" x2="230" y2="420"/><line x1="400" y1="300" x2="420" y2="420"/><line x1="540" y1="300" x2="580" y2="420"/>
+  </g>
+  <!-- window with view -->
+  <rect x="360" y="60" width="170" height="180" fill="#6e4a2f"/>
+  <rect x="372" y="72" width="146" height="156" fill="#f6d8a8"/>
+  <path d="M372 170 Q420 145 470 165 T518 160 V228 H372 Z" fill="#8a9a5b"/>
+  <circle cx="480" cy="105" r="18" fill="#e9b44c"/>
+  <line x1="445" y1="72" x2="445" y2="228" stroke="#6e4a2f" stroke-width="8"/>
+  <!-- bed -->
+  <rect x="70" y="200" width="240" height="100" rx="8" fill="#f3ecdf"/>
+  <rect x="70" y="150" width="18" height="150" rx="6" fill="#6e4a2f"/>
+  <rect x="88" y="185" width="70" height="34" rx="10" fill="#fffdf9"/>
+  <rect x="70" y="240" width="240" height="60" rx="8" fill="#8a9a5b"/>
+  <rect x="70" y="240" width="240" height="14" fill="#6b7a45"/>
+  <!-- bedside -->
+  <rect x="322" y="248" width="46" height="52" fill="#6e4a2f"/>
+  <ellipse cx="345" cy="228" rx="16" ry="20" fill="#e9b44c"/>
+  <rect x="340" y="244" width="10" height="10" fill="#6e4a2f"/>
+</svg>

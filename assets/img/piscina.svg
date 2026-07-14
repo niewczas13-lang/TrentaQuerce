@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="La piscina al tramonto">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e9b44c"/>
+      <stop offset=".6" stop-color="#d97b4f"/>
+      <stop offset="1" stop-color="#a2532c"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="260" fill="url(#sky)"/>
+  <circle cx="300" cy="200" r="52" fill="#fff3d6" opacity=".9"/>
+  <path d="M0 240 Q150 200 300 230 T600 215 V270 H0 Z" fill="#8c1735" opacity=".8"/>
+  <path d="M0 258 Q200 225 400 250 T600 245 V280 H0 Z" fill="#591026" opacity=".85"/>
+  <rect y="260" width="600" height="160" fill="#8a9a5b"/>
+  <!-- pool -->
+  <ellipse cx="300" cy="345" rx="210" ry="58" fill="#bfe0dd"/>
+  <ellipse cx="300" cy="340" rx="196" ry="50" fill="#7fbdb8"/>
+  <ellipse cx="300" cy="336" rx="180" ry="42" fill="#5aa7a1"/>
+  <ellipse cx="260" cy="330" rx="60" ry="12" fill="#fff3d6" opacity=".35"/>
+  <!-- loungers -->
+  <rect x="60" y="290" width="52" height="10" rx="4" fill="#d8c3a5" transform="rotate(-6 86 295)"/>
+  <rect x="490" y="292" width="52" height="10" rx="4" fill="#d8c3a5" transform="rotate(6 516 297)"/>
+</svg>

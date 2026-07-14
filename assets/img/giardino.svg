@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Il giardino e la quercia">
+  <rect width="600" height="420" fill="#f3ecdf"/>
+  <circle cx="500" cy="80" r="42" fill="#e9b44c" opacity=".8"/>
+  <path d="M0 260 Q200 210 400 250 T600 240 V420 H0 Z" fill="#8a9a5b"/>
+  <path d="M0 320 Q250 280 600 315 V420 H0 Z" fill="#6b7a45"/>
+  <!-- big oak -->
+  <path d="M285 380 q-8 -90 -18 -130 q30 20 36 0 q6 25 20 130 z" fill="#6e4a2f"/>
+  <circle cx="300" cy="180" r="80" fill="#4c5a2e"/>
+  <circle cx="235" cy="215" r="55" fill="#5a7a3a"/>
+  <circle cx="365" cy="210" r="58" fill="#5a7a3a"/>
+  <circle cx="300" cy="150" r="52" fill="#5a7a3a" opacity=".7"/>
+  <!-- swing -->
+  <line x1="352" y1="235" x2="352" y2="300" stroke="#d8c3a5" stroke-width="4"/>
+  <line x1="392" y1="238" x2="392" y2="300" stroke="#d8c3a5" stroke-width="4"/>
+  <rect x="342" y="298" width="60" height="10" rx="4" fill="#a2532c"/>
+  <!-- lavender -->
+  <g>
+    <g stroke="#4c5a2e" stroke-width="3">
+      <line x1="100" y1="395" x2="106" y2="360"/><line x1="120" y1="398" x2="124" y2="362"/><line x1="140" y1="396" x2="142" y2="358"/>
+    </g>
+    <ellipse cx="106" cy="352" rx="7" ry="16" fill="#8a7ab5"/>
+    <ellipse cx="124" cy="354" rx="7" ry="16" fill="#8a7ab5"/>
+    <ellipse cx="142" cy="350" rx="7" ry="16" fill="#8a7ab5"/>
+  </g>
+  <g>
+    <g stroke="#4c5a2e" stroke-width="3">
+      <line x1="480" y1="400" x2="486" y2="365"/><line x1="500" y1="402" x2="504" y2="366"/>
+    </g>
+    <ellipse cx="486" cy="357" rx="7" ry="16" fill="#8a7ab5"/>
+    <ellipse cx="504" cy="358" rx="7" ry="16" fill="#8a7ab5"/>
+  </g>
+</svg>

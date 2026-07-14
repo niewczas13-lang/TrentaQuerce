@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 620" role="img" aria-label="Mappa: come arrivare a Trenta Querce" font-family="Inter, -apple-system, sans-serif" font-size="15" fill="#5a5248">
+  <defs>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#2b2620" flood-opacity=".18"/>
+    </filter>
+  </defs>
+  <rect width="700" height="620" rx="16" fill="#efe6d4"/>
+  <text x="46" y="150" font-size="19" letter-spacing="5" fill="#cbbfa6" font-weight="600">TOSCANA</text>
+  <text x="52" y="500" font-size="19" letter-spacing="5" fill="#cbbfa6" font-weight="600">LAZIO</text>
+  <text x="560" y="300" font-size="19" letter-spacing="5" fill="#cbbfa6" font-weight="600" transform="rotate(90 560 300)">MARCHE</text>
+  <path d="M157.7 366.6L167.6 390.5L182.2 396.8L177.6 411.3L168.4 416.6L167.3 420.1L173.6 423.1L171.5 427.9L189.9 435.9L196.4 443.3L217.9 435.1L222.7 441.0L233.1 430.4L245.2 436.7L256.0 448.7L251.9 455.7L257.0 458.9L254.8 470.5L265.0 475.2L266.0 482.3L262.7 485.4L269.3 490.9L265.0 494.7L274.1 499.2L269.4 501.4L279.2 500.2L286.4 508.3L297.3 498.9L305.4 499.1L307.9 503.2L303.6 510.6L308.6 514.3L303.9 515.4L303.9 526.7L317.9 525.4L314.2 537.9L331.5 534.9L331.6 544.7L336.9 550.0L341.1 543.5L358.2 535.6L360.0 511.6L367.5 510.3L369.8 520.2L377.1 520.4L395.9 509.5L387.4 498.1L404.2 493.5L404.6 486.3L417.0 485.6L438.1 473.7L434.2 459.9L438.2 454.1L448.6 458.8L454.2 452.7L471.3 453.3L475.0 444.9L485.1 451.0L499.0 443.8L501.0 438.0L511.8 440.2L517.3 434.2L517.1 426.0L521.9 417.4L522.7 398.2L533.9 393.5L535.7 397.7L542.3 379.7L534.2 357.3L527.8 367.2L513.3 371.0L499.7 349.0L483.5 337.2L475.7 344.0L468.7 339.7L466.0 344.6L468.6 349.0L465.2 356.6L461.6 356.5L459.4 344.6L461.7 334.9L454.1 333.4L453.7 329.0L439.1 320.1L442.5 312.2L436.9 302.8L441.8 298.8L437.4 284.0L439.5 270.7L435.0 260.1L424.3 259.7L420.5 250.8L429.7 243.0L430.5 227.6L422.5 223.2L419.1 204.4L409.1 198.0L412.5 193.6L411.8 182.0L397.1 157.1L407.1 147.4L402.6 142.9L404.5 131.5L393.9 128.6L386.6 143.8L373.8 139.2L361.6 146.9L328.1 106.7L322.6 104.4L316.3 109.1L310.5 100.2L305.1 101.6L298.6 111.6L290.7 101.9L281.4 105.9L275.6 98.0L284.4 94.7L292.6 82.7L289.2 78.0L292.0 72.4L287.8 70.0L271.9 82.1L251.2 79.2L247.9 72.5L244.9 74.3L233.5 91.7L230.9 103.9L227.9 101.3L214.6 106.4L213.7 115.0L228.6 123.0L228.1 126.6L224.2 125.6L210.7 140.8L203.9 138.6L195.0 147.3L197.2 153.2L209.6 152.5L209.7 166.5L216.9 164.0L222.3 168.3L226.5 180.9L222.9 189.4L224.7 194.3L237.6 198.7L242.4 187.0L250.9 193.2L213.8 216.2L201.5 209.7L197.5 212.1L200.5 218.6L194.3 235.2L167.0 249.3L163.4 257.4L168.6 271.1L166.7 278.0L170.7 285.9L175.7 280.2L183.1 287.5L173.7 314.9L175.8 324.3L169.7 334.5L169.2 343.0L175.8 344.7L176.6 356.9L169.4 356.2L157.7 366.6Z" fill="#faf5ea" stroke="#b9ab8d" stroke-width="2.5" filter="url(#soft)"/>
+  <path d="M174,268 L210,360 L236,414 L261,460 L269,481 L300,529 L328,575" fill="none" stroke="#8b8378" stroke-width="3" stroke-dasharray="10 7" opacity=".75"/>
+  <path d="M146,287 L188,364 L219,415 L255,460 L269,481 L296,514 L314,563" fill="none" stroke="#6b7a45" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M303,211 L297,264 L300,326 L302,390 L328,441 L368,474" fill="none" stroke="#9aa96e" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <g font-size="13" font-weight="700" text-anchor="middle">
+    <rect x="160" y="344" width="44" height="24" rx="5" fill="#2e7d32"/>
+    <text x="182" y="361" fill="#fff">A1</text>
+    <rect x="276" y="314" width="48" height="24" rx="5" fill="#2e7d32"/>
+    <text x="300" y="331" fill="#fff">E45</text>
+  </g>
+  <g font-size="14" font-weight="600" fill="#6b7a45">
+    <text x="138" y="275" text-anchor="start">&#8598; Firenze</text>
+    <text x="318" y="581" text-anchor="end">Roma &#8600;</text>
+  </g>
+  <text x="260" y="511" text-anchor="end" font-size="12" fill="#8b8378">stazione FS</text>
+  <circle cx="297" cy="264" r="7" fill="#fffdf9" stroke="#5a5248" stroke-width="2.5"/><circle cx="297" cy="264" r="2.5" fill="#5a5248"/><text x="306" y="268" text-anchor="start" font-weight="700">Perugia</text><circle cx="361" cy="279" r="5" fill="#fffdf9" stroke="#5a5248" stroke-width="2.5"/><text x="370" y="283" text-anchor="start" font-weight="500">Assisi</text><circle cx="350" cy="172" r="5" fill="#fffdf9" stroke="#5a5248" stroke-width="2.5"/><text x="359" y="176" text-anchor="start" font-weight="500">Gubbio</text><circle cx="302" cy="390" r="5" fill="#fffdf9" stroke="#5a5248" stroke-width="2.5"/><text x="311" y="394" text-anchor="start" font-weight="500">Todi</text><circle cx="219" cy="415" r="5" fill="#fffdf9" stroke="#5a5248" stroke-width="2.5"/><text x="210" y="419" text-anchor="end" font-weight="500">Orvieto</text><circle cx="368" cy="474" r="5" fill="#fffdf9" stroke="#5a5248" stroke-width="2.5"/><text x="368" y="498" text-anchor="middle" font-weight="500">Terni</text><circle cx="395" cy="406" r="5" fill="#fffdf9" stroke="#5a5248" stroke-width="2.5"/><text x="404" y="410" text-anchor="start" font-weight="500">Spoleto</text><circle cx="269" cy="481" r="5" fill="#fffdf9" stroke="#5a5248" stroke-width="2.5"/><text x="260" y="495" text-anchor="end" font-weight="500">Attigliano</text>
+  <circle cx="281" cy="470" r="5" fill="#fffdf9" stroke="#5a5248" stroke-width="2.5"/>
+  <text x="307" y="476" font-weight="600">Lugnano in Teverina</text>
+  <g filter="url(#soft)">
+    <path d="M275 479 c -16 -22 -26 -33 -26 -48 a 26 26 0 1 1 52 0 c 0 15 -10 26 -26 48 z" fill="#a41a3b"/>
+    <circle cx="275" cy="431" r="15" fill="#fffdf9"/>
+    <text x="275" y="438" text-anchor="middle" font-family="Georgia, serif" font-size="20" font-style="italic" font-weight="700" fill="#a41a3b">Q</text>
+  </g>
+  <path d="M271 477 Q 231 507 199 535" stroke="#a41a3b" stroke-width="1.5" fill="none" opacity=".65"/>
+  <text x="193" y="555" text-anchor="middle" font-family="Georgia, serif" font-size="20" font-style="italic" font-weight="700" fill="#a41a3b">Trenta Querce</text>
+</svg>
